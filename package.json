@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "base-helpers": "^1.0.0",
+    "line-utils": "^0.0.4",
+    "node-fetch": "^2.6.12"
+  }
+}
